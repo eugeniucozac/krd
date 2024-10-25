@@ -1,0 +1,1 @@
+export type OrientationType = "N" | "E" | "S" | "W";
